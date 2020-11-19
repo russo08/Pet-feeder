@@ -19,7 +19,7 @@ All printed using an Ender 3 pro and with the following settings
 
 **NOTE:** The food chute takes up the maximum amount of print surface from the Ender 3. If you plan on using 
 a printer with a small bed size, the food chute will not fit. In order to get the chute to fit on the slicer, the bottom of the chute 
-should be touching the build plate and oriented diagonally on the build surface. It takes a little messing around with, but You will eventually
+should be touching the build plate and oriented diagonally on the build surface. It takes a little messing around with, but you will eventually
 get it set correctly. 
 
 
