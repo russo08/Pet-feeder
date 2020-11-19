@@ -1,7 +1,7 @@
-# Pet-feeder
+# Pet-Feeder
 Arduino based pet feeder
 
-## 3D printed models
+## 3D Printed Models
 
 All printed using an Ender 3 pro and with the following settings
 - Material: PLA+
@@ -10,7 +10,7 @@ All printed using an Ender 3 pro and with the following settings
 - Print speed: 60 mm/s
 - Slicer Settings: Use Standard default Cura settings (except printing temp and print speed)
 
-## Funnel, Servo Bracket, and Food Chute
+## Funnel, Servo Bracket, and Food Chute Supports
 - Support Density: 10% for both
 - Support placement for funnel: Touching buildplate
 - Support placement for bracket: Everywhere
