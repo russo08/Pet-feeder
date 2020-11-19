@@ -6,7 +6,8 @@ Arduino based pet feeder
 - Material: PLA+
 - Nozzle Temp: 210 C
 - Bed Temp: 60 C
-- Slicer Settings: Use Standard default Cura settings (except printing temp)
+- Print speed: 60 mm/s
+- Slicer Settings: Use Standard default Cura settings (except printing temp and print speed)
 
 ## Funnel and Servo Bracket
 - Support Density: 10% for both
