@@ -1,7 +1,7 @@
 # Pet-feeder
 Arduino based pet feeder
 
-##3D printed models
+## 3D printed models
 
 Material: PLA+
 Nozzle Temp: 210 C
