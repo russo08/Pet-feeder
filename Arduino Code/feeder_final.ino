@@ -365,6 +365,7 @@ void menu_transitions(int input) {
       }
       else if (input == btnBACK) {
         lcd.clear();
+        servoOn = true;
         state = MENU_EDIT_FEED1;
       }
       else if (input == btnENTER) {
@@ -431,6 +432,7 @@ void menu_transitions(int input) {
       }
       else if (input == btnBACK) {
         lcd.clear();
+        servoOn = true;  
         state = MENU_EDIT_FEED2;
       }
       else if (input == btnENTER) {
