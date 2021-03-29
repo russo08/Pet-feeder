@@ -2,10 +2,10 @@
 Arduino based pet feeder
 
 ## Libraries
-Here are all the libraries you will need to download
-https://github.com/JChristensen/JC_Button - Buttons library
-https://github.com/VaSe7u/LiquidMenu - Creating the menu
-https://github.com/adafruit/RTClib - Getting time from the RTC
+Here are all the libraries you will need to download  
+https://github.com/JChristensen/JC_Button - Buttons library  
+https://github.com/VaSe7u/LiquidMenu - Creating the menu  
+https://github.com/adafruit/RTClib - Getting time from the RTC  
 
 ## 3D Printed Models
 
