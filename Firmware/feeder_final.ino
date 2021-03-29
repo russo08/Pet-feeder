@@ -26,7 +26,7 @@
 // Creates servo object to control your servo
 Servo myservo;
 
-// Assigning all my input and I/O pins
+// Assigning all my I/O pins
 #define ENTER_BUTTON_PIN 11
 #define UP_BUTTON_PIN 10
 #define DOWN_BUTTON_PIN 9
@@ -37,7 +37,7 @@ Servo myservo;
 #define HALL_LED_PIN 7
 #define SERVO_PIN 6
 
-// Defining all the Buttons, works with the JC_Button library
+// Defining all the Buttons using the JC_Button library
 Button enterBtn (ENTER_BUTTON_PIN);
 Button upBtn (UP_BUTTON_PIN);
 Button downBtn (DOWN_BUTTON_PIN);
@@ -88,7 +88,7 @@ void hallActiveISR()
 
 /* I use enums here to keep better track of what button is
     being pushed as opposed to just having each button set to
-    an interger value.
+    an interger value from 0-3.
 */
 enum {
   btnENTER,
